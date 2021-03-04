@@ -1,0 +1,83 @@
+       form {
+           display: inline-block;
+           margin-left: 12px;
+           margin-right: 10px;
+       }
+       
+       .buttn a {
+           color: black;
+           font-weight: bold;
+       }
+       
+       .buttn button {
+           margin-top: 20px;
+           margin-bottom: 20px;
+       }
+       
+       .container {
+           border: 2px solid blue;
+           padding: 30px;
+       }
+       
+       form .row {
+           margin-left: 15rem;
+           margin-right: 15rem;
+       }
+       
+       #email {
+           background: transparent;
+           border: none;
+           border-bottom: 1px solid #8a888893;
+           outline: none;
+           box-shadow: none;
+           border-radius: 0px;
+           margin-top: 0;
+           margin: -2rem auto;
+           text-align: left;
+           margin-left: 2rem;
+       }
+       
+       label {
+           margin-left: 35px;
+           margin-top: 5px;
+           text-align: left;
+       }
+       
+       #phone {
+           background: transparent;
+           border: none;
+           border-bottom: 1px solid #8a888893;
+           outline: none;
+           box-shadow: none;
+           border-radius: 0px;
+           margin-top: 0;
+           margin: -1.7rem;
+           margin-left: 2rem;
+       }
+       
+       #City {
+           background: transparent;
+           border: none;
+           border-bottom: 1px solid #8a888893;
+           outline: none;
+           box-shadow: none;
+           border-radius: 0px;
+           margin-top: -1rem;
+           margin-left: 2.1rem;
+           margin-right: -2rem;
+       }
+       
+       #Languages {
+           background: transparent;
+           border: none;
+           border-bottom: 1px solid #8a888893;
+           outline: none;
+           box-shadow: none;
+           border-radius: 0px;
+           margin-top: -1rem;
+           margin-left: 2.2rem;
+       }
+       
+       form {
+           padding: 1em;
+       }
